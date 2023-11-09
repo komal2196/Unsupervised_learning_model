@@ -1,2 +1,2 @@
 # Unsupervised_learning_model
-Here, in this project I have breast cancer related raw dataset which I unlabelled and highly dimentional. the task is to cluster the dataset and find important features and their corresponding values that play in major role in deciding the clusters. Therew are total 1903 rows and 693 distinct features. 
+Here, in this project I have breast cancer related unlabelled and highly dimentional dataset. The task is to cluster the data and find important features and their corresponding values that play a major role in deciding the clusters. There are total 1903 rows and 693 distinct features. The major challenge here being high dimentionallity. 
